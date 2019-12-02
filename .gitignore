@@ -16,3 +16,9 @@ npm-debug.log
 build
 /style.css.map
 .cache
+dist/*.jpg
+dist/*.png
+dist/cats.*
+dist/*.ico
+dist/*.html
+dist/*.svg
